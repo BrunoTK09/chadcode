@@ -1,6 +1,6 @@
-<link href="css/stylefooter.css" rel="stylesheet" />
-<link href="css/responsive.css" rel="stylesheet" />
-<link href="css/style.css" rel="stylesheet" />
+<link href="./css/stylefooter.css" rel="stylesheet" />
+<link href="./css/responsive.css" rel="stylesheet" />
+<link href="./css/style.css" rel="stylesheet" />
 <!-- <link href="css/sobre.css" rel="stylesheet" /> -->
 <div class="footer">
                 <!-- Begin Footer Static Top Area -->
@@ -66,10 +66,10 @@
                                     <div class="footer-block">
                                         <h3 class="sociais">Socials</h3>
                                         <ul class="redes">
-                                            <li><a href="#">Discord</a></li>
-                                            <li><a href="#">Reddit</a></li>
-                                            <li><a href="#">Instagram</a></li>
-                                            <li><a href="#">Youtube</a></li>
+                                        <li><a href="https://discord.gg/ZXfmDKjDdw"><i class="fa-brands fa-discord"></i>Discord</a></li>
+                                            <li><a href="https://www.reddit.com/r/CHAD_CODE/"><i class="fa-brands fa-reddit-alien"></i>Reddit</a></li>
+                                            <li><a href="#"><i class="fa-brands fa-instagram"></i>Instagram</a></li>
+                                            <li><a href="https://www.youtube.com/@BroCodez/featured"><i class="fa-brands fa-youtube"></i>Youtube</a></li>
 
                                         </ul>
                                     </div>

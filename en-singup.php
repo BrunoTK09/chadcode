@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <title>Sing Up - Chad Code</title>
   <link rel="stylesheet" href="./css/login.css">
-  <link href="css/style.css" rel="stylesheet" />
-  <link href="css/responsive.css" rel="stylesheet" />
+  <link href="./css/style.css" rel="stylesheet" />
+  <link href="./css/responsive.css" rel="stylesheet" />
 
 </head>
 <body>

@@ -10,6 +10,7 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+ /* This will make all <h1> headers big, bold, pink, and inside of a thin black rectangle! */
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -64,18 +65,21 @@
   --bs-body-bg: #fff;
 }
 
+/* Seletor universal: qualquer elemento */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
+/* muda a movimentação de um link da mesma pagina para ser mais fluido a rolagem da pagina */
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
   }
 }
 
+/* corpo geral do site */
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -89,6 +93,7 @@ body {
   -webkit-tap-highlight-color: rgb(0, 0, 0);
 }
 
+/* tag sem fechamento ou um elemento vazio que não termina com a chave "/>" */
 hr {
   margin: 1rem 0;
   color: inherit;

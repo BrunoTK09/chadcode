@@ -1,6 +1,6 @@
-<link href="css/stylefooter.css" rel="stylesheet" />
-<link href="css/responsive.css" rel="stylesheet" />
-<link href="css/style.css" rel="stylesheet" />
+<link href="./css/stylefooter.css" rel="stylesheet" />
+<link href="./css/responsive.css" rel="stylesheet" />
+<link href="./css/style.css" rel="stylesheet" />
 <link href="./css/fontsawsome/all.min.css" rel="stylesheet" />
 <link href="./css/fontsawsome/fontawesome.min.css" rel="stylesheet" />
 <!-- <link href="css/sobre.css" rel="stylesheet" /> -->
@@ -69,10 +69,10 @@ Ao conectar pessoas do mundo todo com o mundo de T.i, aos melhores instrutores, 
                                     <div class="footer-block">
                                         <h3 class="sociais">Sociais</h3>
                                         <ul class="redes">
-                                            <li><a href="#"><i class="fa-brands fa-discord"></i>Discord</a></li>
-                                            <li><a href="#"><i class="fa-brands fa-reddit-alien"></i>Reddit</a></li>
+                                            <li><a href="https://discord.gg/ZXfmDKjDdw"><i class="fa-brands fa-discord"></i>Discord</a></li>
+                                            <li><a href="https://www.reddit.com/r/CHAD_CODE/"><i class="fa-brands fa-reddit-alien"></i>Reddit</a></li>
                                             <li><a href="#"><i class="fa-brands fa-instagram"></i>Instagram</a></li>
-                                            <li><a href="#"><i class="fa-brands fa-youtube"></i>Youtube</a></li>
+                                            <li><a href="https://www.youtube.com/@BroCodez/featured"><i class="fa-brands fa-youtube"></i>Youtube</a></li>
 
                                         </ul>
                                     </div>
@@ -100,7 +100,7 @@ Ao conectar pessoas do mundo todo com o mundo de T.i, aos melhores instrutores, 
                 <!-- Footer Static Middle Area End Here -->
                 <!-- Begin Footer Static Bottom Area -->
                 <div class="copyright">
-                        <span class="copyright-link"><a target="_blank" href="pt-index.php">Chadcode - 2022</a></span>
+                        <span class="copyright-link"><a target="_blank" href="index.php">Chadcode - 2022</a></span>
                 </div>
             </div>
             <!-- Footer Area End Here -->

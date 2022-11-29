@@ -8,9 +8,9 @@
         <meta name="author" content="" />
         <title>CHAD CODE</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />   
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/responsive.css" rel="stylesheet" />
-        <link href="css/teste.css" rel="stylesheet" />
+        <link href="./css/style.css" rel="stylesheet" />
+        <link href="./css/responsive.css" rel="stylesheet" />
+        <link href="./css/teste.css" rel="stylesheet" />
 </head>
 <body>
 <?php include 'en-header.php'; ?>
@@ -22,7 +22,7 @@
 <div class="mosaic">
         <div class="container">
             <div class="default-title"> -->
-                <center><h2>MOST USED LANGUAGES ON THE MARKET</h2></center>
+                <center><h2 class="about-flex">MOST USED LANGUAGES ON THE MARKET</h2></center>
                 <br>
                 <br>
                 <br>
@@ -38,8 +38,8 @@
 
                     Google, YouTube, Instagram, Pinterest, Globo.com, SAP and ThoughtWorks use Python in their applications.  <br><br>
 
-                    the job market, the demand for professionals who know how to manage its huge and with good salary appreciation. One of the reasons for this to happen is its versatility of language, guaranteeing great employability in the present and in the future, as technology is increasingly being implemented in the workplace. </p>        <br><br>
-                       <div class="button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                    Python experience is a boon in this job market, often commanding good salaries. One of the reasons for this to happen is its versatility of language, guaranteeing great employability in the present and in the future, as technology is increasingly being implemented in the workplace. </p>        <br><br>
+                       <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
                 </div> <!-- mosaic-single -->
@@ -52,7 +52,7 @@
                     <p>C#, or C-Sharp, is the simple, modern, general-purpose object-oriented language. Built to replace Java on Microsoft's NET platform, it can be used to build desktop and mobile applications, games, and enterprise software. Its Microsoft's main language for developing Windows applications.  <br><br>
 
                     Adopted in popular systems, it is in high demand. The positive point is that programming is very similar to Java, which makes learning easier than mastering JavaScript and Python. <br><br></p>
-                    <div class="button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                    <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
 
@@ -66,7 +66,7 @@
                     <p>C++ is the extension of the C language but completed. It's fast and stable for graphics-intensive applications and systems, but it can take longer to learn because of its complexity. The language is widely used to develop heavier, high-performance applications.<br><br> 
 
                     Google, YouTube, Twitter, Facebook and Amazon also use C++ on the backend. C++ developers are always in demand by companies dealing with large projects and advanced graphics. <br><br></p>
-                    <div class="button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                    <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
 
@@ -80,7 +80,7 @@
                     <p>Java is an object-oriented programming language. Because it’s popular in the development of websites and applications for any type of hardware, it is one of the most relevant languages in the world. It can be used in the development of mobile, web, desktop apps and on any operating system or hardware. <br><br>
 
                     LinkedIn, Ebay, Twitter, Netflix, Spotify, Amazon, Facebook, YouTube and Google are examples of well-known sites that use it.</p><br><br>
-                    <div class="button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                    <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
 
@@ -96,7 +96,7 @@
                     Through its programming, dynamic websites, virtual stores, blogs and online course platforms can be created. <br><br>
 
                     PHP is one of the main languages required by companies looking for back-end or full-stack developers. </p><br><br>
-                    <div class="button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                    <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
                     </div> <!-- mosaic-single -->
@@ -111,7 +111,7 @@
                     However, when we’re first faced with all the complex queries of a SQL-based system, at first it can be daunting to think about delving into this language in depth.<br><br>
 
                     But don't be put off by this. After all, knowing how to correctly use this programming language, we can work with a large volume of data quickly and safely, in addition to opening ourselves up to a new range of possibilities in the market.</p><br><br>
-                    <div class="button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                    <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
                     
                     

@@ -8,9 +8,9 @@
         <meta name="author" content="" />
         <title>CHAD CODE</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />  
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/responsive.css" rel="stylesheet" />
-        <link href="css/teste.css" rel="stylesheet" />
+        <link href="./css/style.css" rel="stylesheet" />
+        <link href="./css/responsive.css" rel="stylesheet" />
+        <link href="./css/teste.css" rel="stylesheet" />
 </head>
 <body>
 <?php include 'pt-header.php'; ?>
@@ -30,7 +30,7 @@
                     <h2>CODE GUIDE</h2>
                     <p>A CodeGuide entrega o maior ecossistema de ensino em tecnologia possivel e tem como missão transformar vidas e carreiras.<br>
 Sabemos que o trabalho em T.i mudou. <br><br>Profissões que se tornaram mais líquidas e as fronteiras entre elas já não estão bem formadas.<br><br> Apenas se especializar em desenvolvimento de software não basta para ser um bom desenvolvedor.<br><br> Para entregarmos resultados é necessário além de aprofundar e mergulhar de cabeça na sua área, você também navegue em outras vertentes de tecnologia, como UX, Marketing Digital ou Data Science, entre outras.<br><br> A CodeGuide carrega a percepção de que o profissional e novos estudantes hoje precisam ser bem orientados e estruturados. Com a CG todos são &#60;STRONG&#62;!</p>
-                        <button class="custom-btn btn-14">Visite-os</button>
+                        <button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/" style="text-decoration: none;">Visite-os</a></button>
                     </div> <!-- mosaic-single-text -->
 
                 </div> <!-- mosaic-single -->
@@ -43,7 +43,7 @@ Sabemos que o trabalho em T.i mudou. <br><br>Profissões que se tornaram mais l�
                     <p>Após todo conteúdo e apresentação, que tal ser um de nossos parceiros?*piscadinha*(sorrindo)<br><br>
                         Com total compromisso aos nossos usuários, comunidade e artigos, fazemos questão de ter o máximo de ajuda possível!<br><br>
                         Até breve futuro Chad!</p>
-                        <button class="custom-btn btn-14">Junte-se</button>
+                        <button class="custom-btn btn-14"><a href="pt-cadastro.php" style="text-decoration: none;">Junte-se</a></button>
                     </div> <!-- mosaic-single-text -->
 
         </div> <!-- container -->

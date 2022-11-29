@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <title>Cadastro - Chad Code</title>
   <link rel="stylesheet" href="./css/login.css">
-  <link href="css/style.css" rel="stylesheet" />
-  <link href="css/responsive.css" rel="stylesheet" />
+  <link href="./css/style.css" rel="stylesheet" />
+  <link href="./css/responsive.css" rel="stylesheet" />
 
 </head>
 <body>
@@ -42,6 +42,7 @@
 </html>
 
 <?php
+
    if (isset($_POST['salvar'])){
        $conexao=mysqli_connect("localhost","root","","chadcode");
        

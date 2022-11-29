@@ -10,9 +10,9 @@
         <title>Sobre nós</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />   
         <!-- <link href="css/style.css" rel="stylesheet" /> -->
-        <link href="css/responsive.css" rel="stylesheet" />
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/sobre.css" rel="stylesheet" />
+        <link href="./css/responsive.css" rel="stylesheet" />
+        <link href="./css/style.css" rel="stylesheet" />
+        <link href="./css/sobre.css" rel="stylesheet" />
         <link href="./css/fontsawsome/all.min.css" rel="stylesheet" />
         <link href="./css/fontsawsome/fontawesome.min.css" rel="stylesheet" />
         <script type="module" src="./review/app.js"></script>
@@ -29,13 +29,9 @@
                             <div class="about-text-wrap">
                                 <h2><p>Chad Code</p>
                                     <p>Sendo Chad, dominando Codes!</p></h2>
-                               
-                                <p>CC, uma comunidade com objetivos em comum que se reúnem com a intenção de compartilhar ideias, agendar encontros via Discord, entre outras finalidades. Nesse sentido, há vários grupos formados por programadores, e eles são utilizados com essa intenção. </p>
-                               
-                                <p>Nesses ambientes há bastante suporte, e isso é extremamente útil aos profissionais que estão ingressando na área e estudantes. As comunidades que contam com várias pessoas tendem a ser melhores, pois as dúvidas podem ser esclarecidas de forma mais rápida e você pode ter contato com diferentes visões sobre o tema. Além disso, geralmente esses ambientes são formados por desenvolvedores que procuram se ajudar constantemente.</p>
-                               
-                                <p>Todas essas características somadas fazem com que esse ambiente seja positivo para os profissionais. Logo, concluímos que ser um Chad te deixa mais Giga e com CodeGuide domine Codes! </p>
-                               
+                                    <p>CC, uma comunidade com objetivos em comum que se reúnem com a intenção de compartilhar ideias, agendar encontros via Discord, entre outras finalidades. Nesse sentido, há vários grupos formados por programadores, e eles são utilizados com essa intenção. </p>
+                                    <p>Nesses ambientes há bastante suporte, e isso é extremamente útil aos profissionais que estão ingressando na área e estudantes. As comunidades que contam com várias pessoas tendem a ser melhores, pois as dúvidas podem ser esclarecidas de forma mais rápida e você pode ter contato com diferentes visões sobre o tema. Além disso, geralmente esses ambientes são formados por desenvolvedores que procuram se ajudar constantemente.</p>
+                                    <p>Todas essas características somadas fazem com que esse ambiente seja positivo para os profissionais. Logo, concluímos que ser um Chad te deixa mais Giga e com CodeGuide domine Codes! </p>
                             </div>
                         </div>
                         <!-- About Text End -->
@@ -68,17 +64,17 @@
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="team-member mb-30 mb-sm-60">
                                 <div class="team-thumb">
-                                    <img src="./images/bronie.gif" alt="Our Team Member">
+                                    <img src="./images/victor2.jpg" alt="Our Team Member">
                                 </div>
                                 <div class="team-content text-center">
                                 <h3>Victor CC Code</h3>
                                     <p>FUNDADOR :</p>
                                     <p>Tão Chad quanto code, consegue ter um raciocínio rápido para resoluções e desenvolver o necessário, pontual e definido como seus músculos e barba! Fundador do ChadCode e modeloChad nas horas vagas! ;9</p>
                                     <div class="team-social">
-                                        <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                                        <a href="#"><i class="fa-brands fa-steam"></i></a>
-                                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                        <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                                        <a href="https://www.facebook.com/victor.rodrigues.988711"><i class="fa-brands fa-facebook"></i></a>
+                                        <a href="https://steamcommunity.com/profiles/76561198167197412/"><i class="fa-brands fa-steam"></i></a>
+                                        <a href="https://www.instagram.com/vctroogzz_/"><i class="fa-brands fa-instagram"></i></a>
+                                        <a href="http://linkedin.com/in/victor-aur%C3%A9lio-57595a196/"><i class="fa-brands fa-linkedin"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -86,7 +82,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-6">
                             <div class="team-member mb-60 mb-sm-30 mb-xs-30">
                                 <div class="team-thumb">
-                                    <img src="./images/bronie.gif" alt="Our Team Member">
+                                    <img src="./images/bruno.jpg" alt="Our Team Member">
                                 </div>
                                 <div class="team-content text-center">
                                     <h3>Bruno Chad Wayne</h3>

@@ -2,9 +2,9 @@
 <html lang="pt-br">
 <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/responsive.css" rel="stylesheet" />
-        <link href="css/login.css" rel="stylesheet" />
+        <link href="./css/style.css" rel="stylesheet" />
+        <link href="./css/responsive.css" rel="stylesheet" />
+        <link href="./css/revi.css" rel="stylesheet" />
   <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,25 +16,25 @@
 <br>
 <br>
 <br>
-<div class="formulario">
+<div class="login-box">
   <center>
     <section class="col-sm-12 col-md-12 col-xs-12 col-lg-6 mb-30">
     <form  name="formulario" method="POST" enctype="multipart/form-data" target="_self">
       <fieldset>
-        <label for="img">Foto de Perfil:</label><br><br>
-        <input type="file" name="img"><br><br>
+        <label for="img" style="color: white;">Foto de Perfil/Profile Pic:</label><br><br>
+        <input type="file" name="img" style="color: white;"><br><br>
       
-        <label for="nome">Nome/Name:</label><br>
+        <label for="nome" style="color: white;">Nome/Name:</label><br>
         <input type="text" name="nome"><br>
 
-        <label for="email">email:</label><br>
+        <label for="email" style="color: white;">email:</label><br>
         <input type="text" name="email"><br>
 
-        <label for="cat">Categoria/Category</label><br>
+        <label for="cat" style="color: white;">Categoria/Category</label><br>
         <input for="text" name="cat" placeholder="Java/Python/Css/etc...."><br>
 
-        <label for="valor">Review</label><br>
-        <input type="text" name="comentario" placeholder="..."><br><br>
+        <label for="valor" style="color: white;">Review</label><br>
+        <textarea type="text" name="comentario" placeholder="..."></textarea><br><br>
 
         <input type="submit" name="cadastrar" value="Postar/Post it"><br><br>
       </fieldset>

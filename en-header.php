@@ -1,5 +1,5 @@
-    <link href="css/style.css" rel="stylesheet" />
-    <link href="css/responsive.css" rel="stylesheet" />
+    <link href="./css/style.css" rel="stylesheet" />
+    <link href="./css/responsive.css" rel="stylesheet" />
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
             <div class="container px-1">
                 <a class="navbar-brand" href="en-index.php"><span style="color:orange"  font-weight><b>C</b></span>HAD <span style="color: orange"><b>C</b></span>ODE</a>
@@ -7,12 +7,10 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="en-languages.php">LANGUAGES</a></li>
-                        <li class="nav-item"><a class="nav-link" href="url do site">CODE GUIDE</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://exposoftalcina.com/3tid/codeguide/public/">CODE GUIDE</a></li>
                         <li class="nav-item"><a class="nav-link" href="en-aboutus.php">ABOUT US</a></li>
                         <li class="nav-item"><a class="nav-link" href="en-partners.php">PARTNERS</a></li>
-                        <li class="nav-item"><a class="nav-link" href="en-login.php">LOG IN</a></li>
-                        <li class="nav-item"><a class="nav-link" href="en-singup.php">SING UP</a></li>
-                        <li class="nav-item"><a class="nav-link" href="pt-index.php">PT-BR</a></li>
+                        <li class="nav-item"><a class="nav-link" href="index.php">PT-BR</a></li>
                     </ul>
                     <a href="#">
                             <span class="linha"></span>

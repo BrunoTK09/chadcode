@@ -8,8 +8,8 @@
         <meta name="author" content="" />
         <title>CHAD CODE</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />   
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/responsive.css" rel="stylesheet" />
+        <link href="./css/style.css" rel="stylesheet" />
+        <link href="./css/responsive.css" rel="stylesheet" />
         <!-- <script src="scrollUp.min.js"></script> -->
 </head>
 <body>
@@ -178,7 +178,7 @@ Se você ainda é iniciante na área, precisa ler este artigo que preparamos sob
         <br>
         <br>
     <?php include 'review.php'; ?>
-    <center><h2><a class="rev btn btn-lg btn-light" href="rw.php"><b>FAÇA UM REVIEW</b></a></h2></center>
+    <center><h2><a class="rev btn btn-lg btn-light" href="rw.php"><b>Faça um Review</b></a></h2></center>
     <br>
     <br>
 <?php include 'pt-footer.php'; ?>

@@ -8,9 +8,9 @@
         <meta name="author" content="" />
         <title>CHAD CODE</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />   
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/responsive.css" rel="stylesheet" />
-        <link href="css/teste.css" rel="stylesheet" />
+        <link href="./css/style.css" rel="stylesheet" />
+        <link href="./css/responsive.css" rel="stylesheet" />
+        <link href="./css/teste.css" rel="stylesheet" />
 </head>
 <body>
 <?php include 'pt-header.php'; ?>
@@ -39,7 +39,7 @@
                         O Google, YouTube, Instagram, Pinterest, Globo.com, SAP e ThoughtWorks utilizam Python em suas aplicações.  <br><br>
 
                         o mercado de trabalho, a procura por profissionais que saibam gerenciá-la é enorme e com boa valorização salarial. Um dos motivos para isso acontecer é sua versatilidade de linguagem, garantindo uma grande empregabilidade no presente e no futuro, pois cada vez mais a tecnologia está sendo implantada nos meios de trabalho. </p>        <br><br>
-                        <div class="about-flex button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                        <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
                 </div> <!-- mosaic-single -->
@@ -52,7 +52,7 @@
                     <p>C#, ou C-Sharp, é a linguagem orientada a objetos, simples, moderna e de uso geral. Criada para substituir o Java na plataforma NET da Microsoft, pode ser usada para construir aplicativos de computador e celular, jogos e softwares corporativos. É a principal linguagem da Microsoft para o desenvolvimento de aplicações para Windows.  <br><br>
 
                         Adotada em sistemas populares, é bastante requisitada. O ponto positivo é ser uma programação bastante parecida com a Java, o que torna o aprendizado mais fácil do que dominar o JavaScript e Python. <br><br></p>
-                        <div class="about-flex button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                        <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
 
@@ -66,7 +66,7 @@
                     <p>C++ é a extensão da linguagem C, porém completa. É rápida e estável para aplicativos e sistemas com gráficos avançados, mas seu aprendizado pode ser mais demorado devido à sua complexidade. A linguagem é bastante usada para desenvolver aplicações mais pesadas e de alto desempenho.<br><br> 
 
                         O Google, YouTube, Twitter, Facebook e Amazon, também utilizam C++ no backend. Os desenvolvedores de C++ são sempre procurados pelas empresas que lidam com grandes projetos e gráficos avançados. <br><br></p>
-                        <div class="about-flex button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                        <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
 
@@ -80,7 +80,7 @@
                     <p>Java é uma linguagem de programação orientada a objetos. Por ser popular no desenvolvimento de sites e aplicativos para qualquer tipo de hardware, é uma das linguagens mais relevantes do meio. Ela pode ser usada no desenvolvimento de apps móveis, web, desktop e em qualquer sistema operacional ou hardware. <br><br>
 
                         LinkedIn, Ebay, Twitter, Netflix, Spotify, Amazon, Facebook, YouTube e Google são exemplos de sites conhecidos que a utilizam.</p><br><br>
-                        <div class="about-flex button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                        <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
 
@@ -96,7 +96,7 @@
                         Através de sua programação, sites dinâmicos, lojas virtuais, blogs e plataformas de cursos online podem ser criados. <br><br>
 
                         PHP é uma das principais linguagens requisitadas pelas empresas que buscam desenvolvedores back-end ou full-stack. </p><br><br>
-                        <div class="about-flex button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                        <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
 
                     </div> <!-- mosaic-single -->
@@ -111,7 +111,7 @@
                         Entretanto, quando nos deparamos pela primeira vez com todas as queries complexas de um sistema baseado em SQL, a princípio pode ser assustador pensar em desvendar a fundo essa linguagem.<br><br>
 
                         Mas não se deixe desanimar por isso. Afinal, sabendo utilizar corretamente essa linguagem de programação, conseguimos trabalhar com um grande volume de dados de forma rápida e segura, além de nos abrirmos para um novo leque de possibilidades no mercado.</p><br><br>
-                        <div class="about-flex button-flex"><button class="custom-btn btn-14">CodeGuide</button> <button class="custom-btn btn-14">Discord</button> <button class="custom-btn btn-14">Youtube</button></div>
+                        <div class="about-flex button-flex"><button class="custom-btn btn-14"><a href="https://exposoftalcina.com/3tid/codeguide/public/">CodeGuide</a></button> <button class="custom-btn btn-14"><a href="https://discord.gg/ZXfmDKjDdw">Discord</a></button> <button class="custom-btn btn-14"><a href="https://www.youtube.com/@BroCodez/featured">Youtube</a></button></div>
                     </div> <!-- mosaic-single-text -->
                     
                     

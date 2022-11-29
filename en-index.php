@@ -8,8 +8,8 @@
         <meta name="author" content="" />
         <title>CHAD CODE</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />   
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/responsive.css" rel="stylesheet" />
+        <link href="./css/style.css" rel="stylesheet" />
+        <link href="./css/responsive.css" rel="stylesheet" />
         <!-- <script src="scrollUp.min.js"></script> -->
 </head>
 <body>
@@ -30,7 +30,7 @@
             <div class="container px-4">
                 <div class="about-flex">
                     <div class="c">
-                    <h2>MASTERING CODES, BEEN A DEV</h2>
+                    <h2>MASTERING CODING, BEING A DEV</h2>
                         <p class="lead">Want to become a specialist level Chad today?
                         Study with us to improve and expand your knowledge and network knowledge to facilitate and break down barriers for your full expansion studies in the area. ChadCode facilitates the future path for students or professionals, in a way that has not given up on having the experience in developing their websites, their projects.
                           Sail headlong with the our Chads and master the Codes!!</p>
@@ -42,11 +42,11 @@
             </div>
         </section>
 
-        <center><div class="about-flex">
+        <!-- <center><div class="about-flex">
             <p class="lead incentivos"> X PEOPLE ON OUR COMMUNITY</p>
             <p class="lead incentivos"> X POSITIVE REVIEWS ON OUR SITE</p>
             <p class="lead incentivos"> X PEOPLE ONLINE ON OUR COMMUNITY</p>
-        </div></center>
+        </div></center> -->
         <br>
         <br>
     <section id="about">   
@@ -179,6 +179,9 @@ If your still a beginner in the area, you need to read this article we prepared 
         <br>
         <br>
     <?php include 'review.php'; ?>
+    <center><h2><a class="rev btn btn-lg btn-light" href="rw.php"><b>Write a Review</b></a></h2></center>
+    <br>
+    <br>
 <?php include 'en-footer.php'; ?>
 </body>
 
